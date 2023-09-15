@@ -35,3 +35,4 @@ codegen/
 # Data
 *.gz
 radar/Data/
+*.txt
