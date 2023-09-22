@@ -36,3 +36,8 @@ codegen/
 *.gz
 radar/Data/
 *.txt
+
+# Dirs
+resources/
+
+.gitattributes
